@@ -1,0 +1,12 @@
+@import "../../../assets/styles/variables";
+
+h2 {
+  color: $green_color;
+}
+.container {
+  width: 300px;
+  height: 500px;
+  background: url("../../../assets/img/familyguy.png");
+  -webkit-background-size: cover;
+  background-size: cover;
+}
